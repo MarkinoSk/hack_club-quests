@@ -14,7 +14,7 @@ Open the file below in your browser:
 
 ```text
 web/
-  web.html
+  index.html
   styles.css
 ```
 
